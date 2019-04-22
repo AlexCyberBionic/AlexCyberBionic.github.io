@@ -1,0 +1,23 @@
+{
+  "FORMS": {
+    "VALIDATION": {
+      "REQUIRED": "This field is required",
+      "INVALID": "This field is not valid"
+    },
+    "PLACEHOLDERS": {
+      "EMAIL": "You email",
+      "FIRSTNAME": "Your firstname",
+      "LASTNAME": "Your lastname",
+      "PASSWORD": "Your password",
+      "NUMBER": "You telephone number"
+    },
+    "BUTTONS": {
+      "STEP_1": "Next step",
+      "STEP_2": "Register"
+    }
+  },
+  "REGISTRATION": {
+    "SUCCESS": "Registration has been completed",
+    "FAILURE": "Oops, some error has been occurred"
+  }
+}
